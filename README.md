@@ -1,4 +1,8 @@
 Simple_Contact
 ==============
 
-A simple app for a contact form in django
+A simple contact form app in django.
+
+Features:
+
+//TODO
